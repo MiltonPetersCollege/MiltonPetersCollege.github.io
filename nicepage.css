@@ -39013,64 +39013,72 @@ a.u-link.u-text-hover-grey-90:hover {
   font-size: 1.25rem;
 }
 @media (max-width: 1199px) {
+  .u-header .u-sheet-1 {
+    min-height: 170px;
+  }
+
   .u-header .u-image-1 {
-    margin-right: 438px;
-    margin-left: auto;
+    margin-top: 94px;
   }
 
   .u-header .u-social-icons-1 {
     width: 52px;
-    margin-left: 440px;
-  }
-
-  .u-header .u-menu-1 {
-    margin-top: -31px;
-    margin-right: 200px;
-  }
-}
-@media (max-width: 991px) {
-  .u-header .u-image-1 {
-    margin-right: 308px;
-  }
-
-  .u-header .u-social-icons-1 {
-    margin-left: 285px;
-  }
-
-  .u-header .u-menu-1 {
-    margin-right: auto;
-    margin-left: 9px;
-  }
-}
-@media (max-width: 767px) {
-  .u-header .u-image-1 {
-    margin-right: auto;
-    margin-left: 300px;
-  }
-
-  .u-header .u-social-icons-1 {
-    margin-right: 448px;
-    margin-left: auto;
-  }
-
-  .u-header .u-menu-1 {
-    margin-right: 129px;
-    margin-left: auto;
-  }
-}
-@media (max-width: 575px) {
-  .u-header .u-image-1 {
-    margin-left: 400px;
-  }
-
-  .u-header .u-social-icons-1 {
-    margin-right: auto;
-    margin-left: 475px;
+    margin-top: -95px;
+    margin-left: 0;
   }
 
   .u-header .u-menu-1 {
     width: auto;
-    margin-right: 29px;
+    margin-top: 42px;
+    margin-bottom: 1px;
+  }
+}
+@media (max-width: 991px) {
+  .u-header .u-sheet-1 {
+    min-height: 172px;
+  }
+
+  .u-header .u-image-1 {
+    width: 201px;
+    height: 75px;
+    margin-top: 96px;
+  }
+
+  .u-header .u-social-icons-1 {
+    width: 52px;
+    margin-top: -20px;
+    margin-left: 201px;
+  }
+
+  .u-header .u-menu-1 {
+    margin-top: -36px;
+    margin-bottom: 0;
+  }
+}
+@media (max-width: 767px) {
+  .u-header .u-image-1 {
+    margin-top: 97px;
+  }
+
+  .u-header .u-social-icons-1 {
+    margin-top: -21px;
+  }
+
+  .u-header .u-menu-1 {
+    margin-top: -36px;
+    margin-bottom: 0;
+  }
+}
+@media (max-width: 575px) {
+  .u-header .u-social-icons-1 {
+    width: 52px;
+    margin-top: -97px;
+    margin-left: 0;
+  }
+
+  .u-header .u-menu-1 {
+    margin-top: 39px;
+    margin-bottom: 0;
   }
 }
  .u-footer {

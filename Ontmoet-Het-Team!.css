@@ -642,16 +642,19 @@
 
 .u-section-2 .u-gallery-nav-3 {
   position: absolute;
-  left: 10px;
+  left: 1px;
   width: 40px;
   height: 40px;
+  top: -78px;
 }
 
 .u-section-2 .u-gallery-nav-4 {
   position: absolute;
-  right: 10px;
   width: 40px;
   height: 40px;
+  left: auto;
+  top: -63px;
+  right: 19px;
 }
 
 @media (max-width: 1199px) {
